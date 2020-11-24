@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dash>
+   <metadata>
+      <row>
+         <version>12.3.0</version>
+      </row>
+   </metadata>
+   <general_attributes>
+      <row>
+         <minimum_ae_version>11.2</minimum_ae_version>
+         <last_runtimes>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</last_runtimes>
+         <name>DASH.DR</name>
+         <type>DASH</type>
+         <description>Disaster Recovery Dashboard</description>
+         <versioning_id>129527989</versioning_id>
+      </row>
+   </general_attributes>
+   <documentation>
+      <row>
+         <DASH>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pgo8ZGFzaGJvYXJkIGNvbHM9IjEiIHJvd3M9IjIiIHN0YXRpYz0iZmFsc2UiPgogICAgPHdpZGdldHM+CiAgICAgICAgPGVudHJ5PgogICAgICAgICAgICA8d2lkZ2V0IGlkPSJlY2MuY29tbW9uLmlmcmFtZSI+Jmx0O2NvbmZpZ3VyYXRpb24mZ3Q7Jmx0O3RpdGxlJmd0O0RSIERhc2hib2FyZCZsdDsvdGl0bGUmZ3Q7Jmx0O2NvbnRlbnRVUkwmZ3Q7aHR0cDovL2xvY2FsaG9zdDo4MDgwL0F1dG9taWNEaXNhc3RlclJlY292ZXJ5RGFzaGJvYXJkL2Rhc2hib2FyZC5qc3AmbHQ7L2NvbnRlbnRVUkwmZ3Q7Jmx0O2Rlc2NyaXB0aW9uJmd0OyZsdDsvZGVzY3JpcHRpb24mZ3Q7Jmx0O3JlZnJlc2hNb2RlJmd0O01BTlVBTCZsdDsvcmVmcmVzaE1vZGUmZ3Q7Jmx0Oy9jb25maWd1cmF0aW9uJmd0Ozwvd2lkZ2V0PgogICAgICAgICAgICA8Z2VvbWV0cnkgaGVpZ2h0PSIxIiB3aWR0aD0iMSIgeD0iMCIgeT0iMCIvPgogICAgICAgIDwvZW50cnk+CiAgICA8L3dpZGdldHM+CiAgICA8Y29uZmlndXJhdGlvbnMvPgo8L2Rhc2hib2FyZD4K</DASH>
+      </row>
+   </documentation>
+</dash>

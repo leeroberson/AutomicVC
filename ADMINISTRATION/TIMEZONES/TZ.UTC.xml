@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tz>
+   <metadata>
+      <row>
+         <version>12.3.0</version>
+      </row>
+   </metadata>
+   <general_attributes>
+      <row>
+         <minimum_ae_version>11.2</minimum_ae_version>
+         <child_flags>00000000000000000000000000000000</child_flags>
+         <last_runtimes>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</last_runtimes>
+         <name>TZ.UTC</name>
+         <type>TZ</type>
+         <description>UTC</description>
+         <versioning_id>1120417487</versioning_id>
+      </row>
+   </general_attributes>
+   <timezone_attributes>
+      <row>
+         <dst_end_hour>3</dst_end_hour>
+         <dst_end_month>10</dst_end_month>
+         <dst_end_ordinal>5</dst_end_ordinal>
+         <dst_end_weekday>7</dst_end_weekday>
+         <dst_start_hour>2</dst_start_hour>
+         <dst_start_month>3</dst_start_month>
+         <dst_start_ordinal>5</dst_start_ordinal>
+         <dst_start_weekday>7</dst_start_weekday>
+         <year>2004</year>
+      </row>
+   </timezone_attributes>
+</tz>
